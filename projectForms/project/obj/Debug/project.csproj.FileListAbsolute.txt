@@ -1,0 +1,10 @@
+D:\Ammar\project\project\project\bin\Debug\project.exe.config
+D:\Ammar\project\project\project\bin\Debug\project.exe
+D:\Ammar\project\project\project\bin\Debug\project.pdb
+D:\Ammar\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\Ammar\project\project\project\obj\Debug\project.Form1.resources
+D:\Ammar\project\project\project\obj\Debug\project.Properties.Resources.resources
+D:\Ammar\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Ammar\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Ammar\project\project\project\obj\Debug\project.exe
+D:\Ammar\project\project\project\obj\Debug\project.pdb
