@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\bin\Debug\Quiz management system.exe.config
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\bin\Debug\Quiz management system.exe
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\bin\Debug\Quiz management system.pdb
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz management system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz_management_system.Form1.resources
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz_management_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz management system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz management system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz management system.exe
+C:\Users\DELL\source\repos\Quiz management system\Quiz management system\obj\Debug\Quiz management system.pdb
