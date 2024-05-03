@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.exe.config
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.exe
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.pdb
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.exe
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.pdb
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.Questions.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.candidates.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.subjects.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.exams.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.splash.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.login.resources
